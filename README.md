@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/Rexashh"><img src="https://telegra.ph/file/8dccc86794f8e6a1da251.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/itsmesenja"><img src="https://telegra.ph/file/8b32a9a154d85b07d6f37.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -15,7 +15,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rexashh/stringbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsmesenja/SenjaString)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -42,10 +42,10 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Credits
 
-- [Rexa](https://github.com/Rexashh)
+- [Senja](https://github.com/Itsmesenja)
 
 ## Support
 
-Channel :- [Tirex Project](https://t.me/tirexgugel)
+Channel :- [Senja Project](https://t.me/senjaprojectt)
 
-Group Chat :- [Group support](https://t.me/rexaprivateroom)
+Group Chat :- [Group support](https://t.me/senjasupportt)
